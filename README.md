@@ -1,2 +1,0 @@
-# redux-intro
-redux-intro
